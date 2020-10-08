@@ -1,1 +1,1 @@
-# -prestashop-address-fields-for-registration
+# prestashop-address-fields-for-registration
